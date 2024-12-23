@@ -1,4 +1,3 @@
-```markdown
 # College Information System (CIS)
 
 ## 🚀 Project Overview
