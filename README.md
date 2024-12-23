@@ -9,7 +9,7 @@ In an era where digital transformation is no longer optional, CIS empowers insti
 
 ## 🔗 Project Notes
 Unlock the potential of seamless administration:  
-[Complete College Management System Using PHP & MySQL - Project Details](https://www.campcodes.com/projects/php/complete-college-management-system-using-php-mysql-free-download/)
+[Complete College Management System Using PHP & MySQL - Project Details]()
 
 ---
 
@@ -33,7 +33,7 @@ Unlock the potential of seamless administration:
 
 ## ⚙️ Installation Guide – Let's Build the Future Together
 1. **Download the Project Files**:  
-   Access the project [here](https://www.campcodes.com/projects/php/complete-college-management-system-using-php-mysql-free-download/).
+   Access the project [here]().
 
 2. **Setup Development Environment**:  
    - Install **XAMPP** or **WAMP** (PHP, MySQL, Apache).  
@@ -93,7 +93,7 @@ Unlock the potential of seamless administration:
 
 ## 🤝 Collaborators
 - **Lead Developer**: Syed Khaja Moinuddin  
-- **Contributors**: [Add Names/Handles Here]  
+- **Contributors**: Dastagir Wajahat Ali Khan, Inam Khan Makki, Suhail Iqbal
 
 ---
 
@@ -104,7 +104,7 @@ Special thanks to **[CampCodes](https://www.campcodes.com/)** for providing acce
 
 ## 📬 Get in Touch
 For further inquiries, collaboration, or support, feel free to reach out:  
-✉️ **syedkhajamoinuddin.dev@gmail.com**  
+✉️ **skm.exec@gmail.com**  
 🔗 **GitHub**: [s-yed](https://github.com/s-yed/)
 
 ---
